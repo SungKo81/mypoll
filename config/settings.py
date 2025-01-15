@@ -85,7 +85,7 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     },
     'default' : {
-        'ENGINE': 'django.db.backend.mysql',
+        'ENGINE': 'django.db.backends.mysql',
         'NAME': 'mypoll', # 연결할 DB의 이름 
         'USER': 'admin', # 사용자 username
         'PASSWORD': 'ksj1130!',
