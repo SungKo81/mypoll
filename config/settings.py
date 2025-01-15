@@ -88,7 +88,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'mypoll', # 연결할 DB의 이름 
         'USER': 'admin', # 사용자 username
-        'PASSWORD': 'ksj1130!',
+        'PASSWORD': '',
         'HOST': 'mypoll-db.cb2gi0q66xcq.ap-northeast-2.rds.amazonaws.com',
         'PORT': '3306'
     }
